@@ -2,7 +2,7 @@
 
 Code By: Michael Wrona
 
-YouTube: @MicWro Engr
+YouTube: [MicWro Engr](https://www.youtube.com/channel/UCIeZzuXHGm7zqSFvT8xGoIQ)
 
 Blog: [mwrona.com](https://mwrona.com/)
 
