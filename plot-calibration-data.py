@@ -104,6 +104,7 @@ ax.set_title('3D Scatter Plot of Magnetometer Data')
 ax.set_xlabel('X [uT]')
 ax.set_ylabel('Y [uT]')
 ax.set_zlabel('Z [uT]')
+ax.set_box_aspect([1, 1, 1])
 
 
 plt.show()
